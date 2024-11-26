@@ -1,0 +1,18 @@
+{
+    "login": {
+        "img": "img/zap_login.png",
+        "url": "https://dsc.gg/serverinlah"
+    },
+    "main": {
+        "img": "img/zap_main.png",
+        "url": "https://dsc.gg/serverinlah"
+    },
+    "loginZap": {
+        "img": "img/zap_login.png",
+        "url": "https://dsc.gg/serverinlah"
+    },
+    "mainZap": {
+        "img": "img/zap_main.png",
+        "url": "https://dsc.gg/serverinlah"
+    }
+}
